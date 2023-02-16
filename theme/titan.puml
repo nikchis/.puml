@@ -15,27 +15,27 @@ skinparam sequenceDivider {
 }
 
 skinparam sequenceLifeLine {
-    BackgroundColor EF9F9F
+    BackgroundColor 8ccaff
     BorderColor 191919
-    FontColor F9F9F9
+    FontColor 191919
     BorderThickness 1
 }
 
 skinparam participant {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
-    FontColor F9F9F9
+    FontColor 191919
     BorderThickness 1.5
 }
 
 skinparam database {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
     FontColor 191919
 }
 
 skinparam entity {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
     FontColor 191919
 }
@@ -60,21 +60,21 @@ skinparam boundary {
 }
 
 skinparam control {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
     FontColor 191919
 }
 
 skinparam collections {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
-    FontColor F9F9F9
+    FontColor 191919
     BorderThickness 1.5
 }
 
 skinparam queue {
-    BackgroundColor E55756
+    BackgroundColor 61bfff
     BorderColor 191919
-    FontColor FFF
+    FontColor 191919
     BorderThickness 1.5
 }
